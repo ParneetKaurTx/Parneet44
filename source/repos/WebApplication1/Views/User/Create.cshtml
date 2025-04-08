@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+@{
+    ViewData["Title"] = "Create";
+}
+@model WebApplication1.Models.User
+
+<h1>Create User</h1>
+
+
+
+<div class="form-container">
+    <form method="post" asp-action="Create">
+        <label for="Name">Person Name:</label>
+        <input type="text" id="Name" asp-for="Name" required>
+
+        <label for="ContactNo">Contact Number:</label>
+        <input type="text" id="ContactNo" asp-for="ContactNo" required>
+
+        <input type="submit" value="Submit">
+    </form>
+</div>

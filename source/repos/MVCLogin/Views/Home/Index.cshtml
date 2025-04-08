@@ -1,0 +1,58 @@
+﻿@model MVCLogin.Models.UserLogin
+<link href="~/wwwroot/css/index.css" rel="stylesheet" type="text/css" />
+
+
+
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@* <div class="text-center">  *@
+@*     <h1 class="display-4">Welcome</h1> *@
+@*     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p> *@
+@* @* </div>  *@
+
+
+@using (Html.BeginForm("Index","Home",FormMethod.Post))
+{
+    <table>
+        <tr>
+            <td>
+                @Html.LabelFor(Model=>Model.Username)
+
+                
+            </td>
+
+            <td>
+                @Html.TextBoxFor(Model => Model.Username, new{@class="Form-Control"})
+                @Html.ValidationMessageFor(Model => Model.Username, "", new { @class = "text-danger" })
+
+            </td>
+
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(Model => Model.Password)
+
+            </td>
+            <td>
+                @Html.TextBoxFor(Model => Model.Password)
+                @Html.ValidationMessageFor(Model => Model.Username, "", new { @class = "text-danger" })
+
+            </td>
+        </tr>
+
+        <tr>
+            <td></td>
+
+            <td>
+                <input type="Submit" value="Submit" class="btn btn-info"/>
+            </td>
+        </tr>
+
+    </table>
+} 
+
+

@@ -1,0 +1,14 @@
+C:\Users\Testing\source\repos\modifiedapp\bin\Debug\net8.0\modifiedapp.exe
+C:\Users\Testing\source\repos\modifiedapp\bin\Debug\net8.0\modifiedapp.deps.json
+C:\Users\Testing\source\repos\modifiedapp\bin\Debug\net8.0\modifiedapp.runtimeconfig.json
+C:\Users\Testing\source\repos\modifiedapp\bin\Debug\net8.0\modifiedapp.dll
+C:\Users\Testing\source\repos\modifiedapp\bin\Debug\net8.0\modifiedapp.pdb
+C:\Users\Testing\source\repos\modifiedapp\obj\Debug\net8.0\modifiedapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Testing\source\repos\modifiedapp\obj\Debug\net8.0\modifiedapp.AssemblyInfoInputs.cache
+C:\Users\Testing\source\repos\modifiedapp\obj\Debug\net8.0\modifiedapp.AssemblyInfo.cs
+C:\Users\Testing\source\repos\modifiedapp\obj\Debug\net8.0\modifiedapp.csproj.CoreCompileInputs.cache
+C:\Users\Testing\source\repos\modifiedapp\obj\Debug\net8.0\modifiedapp.dll
+C:\Users\Testing\source\repos\modifiedapp\obj\Debug\net8.0\refint\modifiedapp.dll
+C:\Users\Testing\source\repos\modifiedapp\obj\Debug\net8.0\modifiedapp.pdb
+C:\Users\Testing\source\repos\modifiedapp\obj\Debug\net8.0\modifiedapp.genruntimeconfig.cache
+C:\Users\Testing\source\repos\modifiedapp\obj\Debug\net8.0\ref\modifiedapp.dll

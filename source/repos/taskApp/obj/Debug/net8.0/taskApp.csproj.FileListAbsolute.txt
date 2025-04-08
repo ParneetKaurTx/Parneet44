@@ -1,0 +1,14 @@
+C:\Users\Testing\source\repos\taskApp\obj\Debug\net8.0\taskApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Testing\source\repos\taskApp\obj\Debug\net8.0\taskApp.AssemblyInfoInputs.cache
+C:\Users\Testing\source\repos\taskApp\obj\Debug\net8.0\taskApp.AssemblyInfo.cs
+C:\Users\Testing\source\repos\taskApp\obj\Debug\net8.0\taskApp.csproj.CoreCompileInputs.cache
+C:\Users\Testing\source\repos\taskApp\bin\Debug\net8.0\taskApp.exe
+C:\Users\Testing\source\repos\taskApp\bin\Debug\net8.0\taskApp.deps.json
+C:\Users\Testing\source\repos\taskApp\bin\Debug\net8.0\taskApp.runtimeconfig.json
+C:\Users\Testing\source\repos\taskApp\bin\Debug\net8.0\taskApp.dll
+C:\Users\Testing\source\repos\taskApp\bin\Debug\net8.0\taskApp.pdb
+C:\Users\Testing\source\repos\taskApp\obj\Debug\net8.0\taskApp.dll
+C:\Users\Testing\source\repos\taskApp\obj\Debug\net8.0\refint\taskApp.dll
+C:\Users\Testing\source\repos\taskApp\obj\Debug\net8.0\taskApp.pdb
+C:\Users\Testing\source\repos\taskApp\obj\Debug\net8.0\taskApp.genruntimeconfig.cache
+C:\Users\Testing\source\repos\taskApp\obj\Debug\net8.0\ref\taskApp.dll

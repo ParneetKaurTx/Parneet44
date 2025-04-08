@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Testing\\source\\repos\\TaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8048C7A-959D-420E-BFF5-0ADC0B41552D}|TaskManager.csproj|c:\\users\\testing\\source\\repos\\taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8048C7A-959D-420E-BFF5-0ADC0B41552D}|TaskManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8048C7A-959D-420E-BFF5-0ADC0B41552D}|TaskManager.csproj|c:\\users\\testing\\source\\repos\\taskmanager\\operation_taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8048C7A-959D-420E-BFF5-0ADC0B41552D}|TaskManager.csproj|solutionrelative:operation_taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Testing\\source\\repos\\TaskManager\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Testing\\source\\repos\\TaskManager\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T10:14:45.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operation_TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\Testing\\source\\repos\\TaskManager\\Operation_TaskManager.cs",
+              "RelativeDocumentMoniker": "Operation_TaskManager.cs",
+              "ToolTip": "C:\\Users\\Testing\\source\\repos\\TaskManager\\Operation_TaskManager.cs*",
+              "RelativeToolTip": "Operation_TaskManager.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:04:35.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

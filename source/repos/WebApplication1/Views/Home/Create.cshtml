@@ -1,0 +1,35 @@
+﻿@model List<WebApplication1.Models.User>
+
+@{
+    ViewData["Title"] = "Create User";
+}
+
+<h1>Existing Users</h1>
+
+<table border="1">
+    <tr>
+        <th>Name</th>
+        <th>Contact Number</th>
+    </tr>
+    @foreach (var user in Model)
+    {
+        <tr>
+            <td>@user.Name</td>
+            <td>@user.ContactNo</td>
+        </tr>
+    }
+</table>
+
+<h1>Create New User</h1>
+
+<div class="form-container">
+    <form method="post" asp-action="Create">
+        <label for="Name">Person Name:</label>
+        <input type="text" id="Name" name="Name" required>
+
+        <label for="ContactNo">Contact Number:</label>
+        <input type="text" id="ContactNo" name="ContactNo" required>
+
+        <input type="submit" value="Submit">
+    </form>
+</div>

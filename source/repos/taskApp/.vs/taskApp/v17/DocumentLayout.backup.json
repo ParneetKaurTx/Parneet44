@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Testing\\source\\repos\\taskApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5A0D6A-B793-467E-943F-1DE46A5612BD}|taskApp.csproj|c:\\users\\testing\\source\\repos\\taskapp\\classgeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5A0D6A-B793-467E-943F-1DE46A5612BD}|taskApp.csproj|solutionrelative:classgeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5A0D6A-B793-467E-943F-1DE46A5612BD}|taskApp.csproj|c:\\users\\testing\\source\\repos\\taskapp\\taskcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5A0D6A-B793-467E-943F-1DE46A5612BD}|taskApp.csproj|solutionrelative:taskcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5A0D6A-B793-467E-943F-1DE46A5612BD}|taskApp.csproj|c:\\users\\testing\\source\\repos\\taskapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5A0D6A-B793-467E-943F-1DE46A5612BD}|taskApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassGeneral.cs",
+              "DocumentMoniker": "C:\\Users\\Testing\\source\\repos\\taskApp\\ClassGeneral.cs",
+              "RelativeDocumentMoniker": "ClassGeneral.cs",
+              "ToolTip": "C:\\Users\\Testing\\source\\repos\\taskApp\\ClassGeneral.cs",
+              "RelativeToolTip": "ClassGeneral.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:06:22.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Testing\\source\\repos\\taskApp\\TaskCategory.cs",
+              "RelativeDocumentMoniker": "TaskCategory.cs",
+              "ToolTip": "C:\\Users\\Testing\\source\\repos\\taskApp\\TaskCategory.cs",
+              "RelativeToolTip": "TaskCategory.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:46:05.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Testing\\source\\repos\\taskApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Testing\\source\\repos\\taskApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T10:19:49.271Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
