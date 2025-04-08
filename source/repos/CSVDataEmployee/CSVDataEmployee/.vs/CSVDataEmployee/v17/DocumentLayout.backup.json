@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Testing\\source\\repos\\CSVDataEmployee\\CSVDataEmployee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA92FEA3-6A09-4B83-811B-350C27C00170}|CSVDataEmployee.csproj|c:\\users\\testing\\source\\repos\\csvdataemployee\\csvdataemployee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA92FEA3-6A09-4B83-811B-350C27C00170}|CSVDataEmployee.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA92FEA3-6A09-4B83-811B-350C27C00170}|CSVDataEmployee.csproj|c:\\users\\testing\\source\\repos\\csvdataemployee\\csvdataemployee\\csvdataemployee.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA92FEA3-6A09-4B83-811B-350C27C00170}|CSVDataEmployee.csproj|solutionrelative:csvdataemployee.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA92FEA3-6A09-4B83-811B-350C27C00170}|CSVDataEmployee.csproj|c:\\users\\testing\\source\\repos\\csvdataemployee\\csvdataemployee\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA92FEA3-6A09-4B83-811B-350C27C00170}|CSVDataEmployee.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA92FEA3-6A09-4B83-811B-350C27C00170}|CSVDataEmployee.csproj|c:\\users\\testing\\source\\repos\\csvdataemployee\\csvdataemployee\\csvhelper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA92FEA3-6A09-4B83-811B-350C27C00170}|CSVDataEmployee.csproj|solutionrelative:csvhelper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA92FEA3-6A09-4B83-811B-350C27C00170}|CSVDataEmployee.csproj|c:\\users\\testing\\source\\repos\\csvdataemployee\\csvdataemployee\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA92FEA3-6A09-4B83-811B-350C27C00170}|CSVDataEmployee.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA92FEA3-6A09-4B83-811B-350C27C00170}|CSVDataEmployee.csproj|c:\\users\\testing\\source\\repos\\csvdataemployee\\csvdataemployee\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA92FEA3-6A09-4B83-811B-350C27C00170}|CSVDataEmployee.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA92FEA3-6A09-4B83-811B-350C27C00170}|CSVDataEmployee.csproj|c:\\users\\testing\\source\\repos\\csvdataemployee\\csvdataemployee\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA92FEA3-6A09-4B83-811B-350C27C00170}|CSVDataEmployee.csproj|solutionrelative:views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA92FEA3-6A09-4B83-811B-350C27C00170}|CSVDataEmployee.csproj|c:\\users\\testing\\source\\repos\\csvdataemployee\\csvdataemployee\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA92FEA3-6A09-4B83-811B-350C27C00170}|CSVDataEmployee.csproj|solutionrelative:views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA92FEA3-6A09-4B83-811B-350C27C00170}|CSVDataEmployee.csproj|c:\\users\\testing\\source\\repos\\csvdataemployee\\csvdataemployee\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA92FEA3-6A09-4B83-811B-350C27C00170}|CSVDataEmployee.csproj|solutionrelative:views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA92FEA3-6A09-4B83-811B-350C27C00170}|CSVDataEmployee.csproj|c:\\users\\testing\\source\\repos\\csvdataemployee\\csvdataemployee\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA92FEA3-6A09-4B83-811B-350C27C00170}|CSVDataEmployee.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Testing\\source\\repos\\CSVDataEmployee\\CSVDataEmployee\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Testing\\source\\repos\\CSVDataEmployee\\CSVDataEmployee\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-24T09:50:10.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CSVDataEmployee.csproj",
+              "DocumentMoniker": "C:\\Users\\Testing\\source\\repos\\CSVDataEmployee\\CSVDataEmployee\\CSVDataEmployee.csproj",
+              "RelativeDocumentMoniker": "CSVDataEmployee.csproj",
+              "ToolTip": "C:\\Users\\Testing\\source\\repos\\CSVDataEmployee\\CSVDataEmployee\\CSVDataEmployee.csproj",
+              "RelativeToolTip": "CSVDataEmployee.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T08:43:36.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Testing\\source\\repos\\CSVDataEmployee\\CSVDataEmployee\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Testing\\source\\repos\\CSVDataEmployee\\CSVDataEmployee\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:40:04.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Testing\\source\\repos\\CSVDataEmployee\\CSVDataEmployee\\Views\\Employee\\Update.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Testing\\source\\repos\\CSVDataEmployee\\CSVDataEmployee\\Views\\Employee\\Update.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T14:27:21.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Testing\\source\\repos\\CSVDataEmployee\\CSVDataEmployee\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Testing\\source\\repos\\CSVDataEmployee\\CSVDataEmployee\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAABRwBwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T13:32:47.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Testing\\source\\repos\\CSVDataEmployee\\CSVDataEmployee\\Views\\Employee\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Testing\\source\\repos\\CSVDataEmployee\\CSVDataEmployee\\Views\\Employee\\Add.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Add.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T07:48:43.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Testing\\source\\repos\\CSVDataEmployee\\CSVDataEmployee\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Testing\\source\\repos\\CSVDataEmployee\\CSVDataEmployee\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T07:41:13.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Testing\\source\\repos\\CSVDataEmployee\\CSVDataEmployee\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Testing\\source\\repos\\CSVDataEmployee\\CSVDataEmployee\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwCUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T06:11:10.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Testing\\source\\repos\\CSVDataEmployee\\CSVDataEmployee\\CSVHelper\\Helper.cs",
+              "RelativeDocumentMoniker": "CSVHelper\\Helper.cs",
+              "ToolTip": "C:\\Users\\Testing\\source\\repos\\CSVDataEmployee\\CSVDataEmployee\\CSVHelper\\Helper.cs",
+              "RelativeToolTip": "CSVHelper\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T06:01:33.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Testing\\source\\repos\\CSVDataEmployee\\CSVDataEmployee\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Testing\\source\\repos\\CSVDataEmployee\\CSVDataEmployee\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T05:47:06.574Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

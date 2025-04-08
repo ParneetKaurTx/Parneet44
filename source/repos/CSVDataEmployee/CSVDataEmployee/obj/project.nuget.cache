@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oFaqt8ecusk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Testing\\source\\repos\\CSVDataEmployee\\CSVDataEmployee\\CSVDataEmployee.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Testing\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

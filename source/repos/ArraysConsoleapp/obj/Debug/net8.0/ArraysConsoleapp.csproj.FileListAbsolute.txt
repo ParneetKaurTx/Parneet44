@@ -1,0 +1,14 @@
+C:\Users\Testing\source\repos\ArraysConsoleapp\bin\Debug\net8.0\ArraysConsoleapp.exe
+C:\Users\Testing\source\repos\ArraysConsoleapp\bin\Debug\net8.0\ArraysConsoleapp.deps.json
+C:\Users\Testing\source\repos\ArraysConsoleapp\bin\Debug\net8.0\ArraysConsoleapp.runtimeconfig.json
+C:\Users\Testing\source\repos\ArraysConsoleapp\bin\Debug\net8.0\ArraysConsoleapp.dll
+C:\Users\Testing\source\repos\ArraysConsoleapp\bin\Debug\net8.0\ArraysConsoleapp.pdb
+C:\Users\Testing\source\repos\ArraysConsoleapp\obj\Debug\net8.0\ArraysConsoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Testing\source\repos\ArraysConsoleapp\obj\Debug\net8.0\ArraysConsoleapp.AssemblyInfoInputs.cache
+C:\Users\Testing\source\repos\ArraysConsoleapp\obj\Debug\net8.0\ArraysConsoleapp.AssemblyInfo.cs
+C:\Users\Testing\source\repos\ArraysConsoleapp\obj\Debug\net8.0\ArraysConsoleapp.csproj.CoreCompileInputs.cache
+C:\Users\Testing\source\repos\ArraysConsoleapp\obj\Debug\net8.0\ArraysConsoleapp.dll
+C:\Users\Testing\source\repos\ArraysConsoleapp\obj\Debug\net8.0\refint\ArraysConsoleapp.dll
+C:\Users\Testing\source\repos\ArraysConsoleapp\obj\Debug\net8.0\ArraysConsoleapp.pdb
+C:\Users\Testing\source\repos\ArraysConsoleapp\obj\Debug\net8.0\ArraysConsoleapp.genruntimeconfig.cache
+C:\Users\Testing\source\repos\ArraysConsoleapp\obj\Debug\net8.0\ref\ArraysConsoleapp.dll

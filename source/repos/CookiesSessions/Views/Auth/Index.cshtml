@@ -1,0 +1,27 @@
+﻿@model CookiesSessions.Models.AuthModel;
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Login Form</h1>
+
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.LabelFor(Model=>Model.Username)
+    </div>
+
+    <div>
+        @Html.TextBoxFor(Model=>Model.Username)
+    </div>
+
+    <div>
+        @Html.LabelFor(Model=>Model.Password)
+    </div>
+    <div>
+        @Html.TextBoxFor(Model => Model.Password)
+    </div>
+    <div>
+        <input type="submit" name="login" />
+    </div>
+}

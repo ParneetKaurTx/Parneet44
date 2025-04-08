@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@if (ViewContext.HttpContext.Request.Cookies["CookieName"]!=null)
+{
+    <h3>Welcome, @ViewContext.HttpContext.Request.Cookies["CookieName"]</h3>
+
+}
+else
+{
+    <h3>Cookies are not available</h3>
+}
