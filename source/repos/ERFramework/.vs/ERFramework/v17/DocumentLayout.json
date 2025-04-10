@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Testing\\source\\repos\\ERFramework\\",
+  "WorkspaceRootPath": "C:\\Users\\Testing\\Desktop\\Projects\\Parneet44\\source\\repos\\ERFramework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Testing\\source\\repos\\ERFramework\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{342EA7D9-3C46-47BA-85A8-AEBBD426F730}|ERFramework.csproj|c:\\users\\testing\\desktop\\projects\\parneet44\\source\\repos\\erframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342EA7D9-3C46-47BA-85A8-AEBBD426F730}|ERFramework.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Testing\\source\\repos\\ERFramework\\Migrations\\20250327053202_my-migrationFile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250327053202_my-migrationFile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{342EA7D9-3C46-47BA-85A8-AEBBD426F730}|ERFramework.csproj|c:\\users\\testing\\desktop\\projects\\parneet44\\source\\repos\\erframework\\migrations\\20250327053202_my-migrationfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342EA7D9-3C46-47BA-85A8-AEBBD426F730}|ERFramework.csproj|solutionrelative:migrations\\20250327053202_my-migrationfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "20250327053202_my-migrationFile.cs",
-              "DocumentMoniker": "C:\\Users\\Testing\\source\\repos\\ERFramework\\Migrations\\20250327053202_my-migrationFile.cs",
+              "DocumentMoniker": "C:\\Users\\Testing\\Desktop\\Projects\\Parneet44\\source\\repos\\ERFramework\\Migrations\\20250327053202_my-migrationFile.cs",
               "RelativeDocumentMoniker": "Migrations\\20250327053202_my-migrationFile.cs",
-              "ToolTip": "C:\\Users\\Testing\\source\\repos\\ERFramework\\Migrations\\20250327053202_my-migrationFile.cs",
+              "ToolTip": "C:\\Users\\Testing\\Desktop\\Projects\\Parneet44\\source\\repos\\ERFramework\\Migrations\\20250327053202_my-migrationFile.cs",
               "RelativeToolTip": "Migrations\\20250327053202_my-migrationFile.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Testing\\source\\repos\\ERFramework\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Testing\\Desktop\\Projects\\Parneet44\\source\\repos\\ERFramework\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Testing\\source\\repos\\ERFramework\\Program.cs",
+              "ToolTip": "C:\\Users\\Testing\\Desktop\\Projects\\Parneet44\\source\\repos\\ERFramework\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwCUAAAC2AAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwBsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T05:27:00.594Z",
               "EditorCaption": ""

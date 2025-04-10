@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Testing\\source\\repos\\OrganizationManagement\\",
+  "WorkspaceRootPath": "C:\\Users\\Testing\\Desktop\\Projects\\Parneet44\\source\\repos\\OrganizationManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{606E8EF5-9672-4199-AB10-3FF046358043}|OrganizationManagement.csproj|c:\\users\\testing\\source\\repos\\organizationmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{606E8EF5-9672-4199-AB10-3FF046358043}|OrganizationManagement.csproj|c:\\users\\testing\\desktop\\projects\\parneet44\\source\\repos\\organizationmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{606E8EF5-9672-4199-AB10-3FF046358043}|OrganizationManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Testing\\source\\repos\\OrganizationManagement\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Testing\\Desktop\\Projects\\Parneet44\\source\\repos\\OrganizationManagement\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Testing\\source\\repos\\OrganizationManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Testing\\Desktop\\Projects\\Parneet44\\source\\repos\\OrganizationManagement\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

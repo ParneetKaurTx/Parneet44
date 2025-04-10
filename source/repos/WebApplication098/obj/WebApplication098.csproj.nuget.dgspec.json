@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Testing\\source\\repos\\WebApplication098\\WebApplication098.csproj": {}
+    "C:\\Users\\Testing\\Desktop\\Projects\\Parneet44\\source\\repos\\WebApplication098\\WebApplication098.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Testing\\source\\repos\\WebApplication098\\WebApplication098.csproj": {
+    "C:\\Users\\Testing\\Desktop\\Projects\\Parneet44\\source\\repos\\WebApplication098\\WebApplication098.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Testing\\source\\repos\\WebApplication098\\WebApplication098.csproj",
+        "projectUniqueName": "C:\\Users\\Testing\\Desktop\\Projects\\Parneet44\\source\\repos\\WebApplication098\\WebApplication098.csproj",
         "projectName": "WebApplication098",
-        "projectPath": "C:\\Users\\Testing\\source\\repos\\WebApplication098\\WebApplication098.csproj",
+        "projectPath": "C:\\Users\\Testing\\Desktop\\Projects\\Parneet44\\source\\repos\\WebApplication098\\WebApplication098.csproj",
         "packagesPath": "C:\\Users\\Testing\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Testing\\source\\repos\\WebApplication098\\obj\\",
+        "outputPath": "C:\\Users\\Testing\\Desktop\\Projects\\Parneet44\\source\\repos\\WebApplication098\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

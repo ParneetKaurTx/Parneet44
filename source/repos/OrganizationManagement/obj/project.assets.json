@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Testing\\source\\repos\\OrganizationManagement\\OrganizationManagement.csproj",
+      "projectUniqueName": "C:\\Users\\Testing\\Desktop\\Projects\\Parneet44\\source\\repos\\OrganizationManagement\\OrganizationManagement.csproj",
       "projectName": "OrganizationManagement",
-      "projectPath": "C:\\Users\\Testing\\source\\repos\\OrganizationManagement\\OrganizationManagement.csproj",
+      "projectPath": "C:\\Users\\Testing\\Desktop\\Projects\\Parneet44\\source\\repos\\OrganizationManagement\\OrganizationManagement.csproj",
       "packagesPath": "C:\\Users\\Testing\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Testing\\source\\repos\\OrganizationManagement\\obj\\",
+      "outputPath": "C:\\Users\\Testing\\Desktop\\Projects\\Parneet44\\source\\repos\\OrganizationManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

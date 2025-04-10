@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Migrations"
   ],
-  "SelectedNode": "\\Program.cs",
+  "SelectedNode": "\\ERFramework.sln",
   "PreviewInSolutionExplorer": false
 }
